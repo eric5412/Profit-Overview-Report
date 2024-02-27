@@ -8,5 +8,7 @@
 
 [Profit Overview for 2017](https://github.com/eric5412/Profit-Overview-Report/blob/main/images/profit_overview_2017.pdf)
 
-To download the Interactive Report please click [here](https://github.com/eric5412/Profit-Overview-Report/blob/main/images/Interactive%20Report.pbix).
+<br>
+
+To download the interactive report please click [here](https://github.com/eric5412/Profit-Overview-Report/blob/main/images/Interactive%20Report.pbix).
 
